@@ -1,0 +1,1 @@
+export { LineRoundedArrowRigth } from "./LineRoundedArrowRigth";

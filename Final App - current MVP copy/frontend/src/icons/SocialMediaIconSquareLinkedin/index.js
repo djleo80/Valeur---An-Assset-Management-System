@@ -1,0 +1,1 @@
+export { SocialMediaIconSquareLinkedin } from "./SocialMediaIconSquareLinkedin";
