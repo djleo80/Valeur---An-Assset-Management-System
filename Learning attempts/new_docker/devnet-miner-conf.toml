@@ -1,0 +1,13 @@
+    [node]
+    rpc_bind = "0.0.0.0:20443"
+    p2p_bind = "0.0.0.0:20444"
+    bootstrap_node = "048dd4f261017a6b63af1a6e9e9f9c6715c5b4a2b44c9f1a8b03f8c5d17a7bbea1@seed-0.mainnet.stacks.co:20444,048dd4f261017a6b63af1a6e9e9f9c6715c5b4a2b44c9f1a8b03f8c5d17a7bbea1@seed-1.mainnet.stacks.co:20444,048dd4f261017a6b63af1a6e9e9f9c6715c5b4a2b44c9f1a8b03f8c5d17a7bbea1@seed-2.mainnet.stacks.co:20444"
+    seed = "LeatherB3ar01*"
+    miner = true
+
+    [burnchain]
+    chain = "bitcoin"
+    mode = "krypton"
+    peer_host = "testnet.mining.stacks.co"
+    rpc_port = 18443
+    peer_port = 18444
