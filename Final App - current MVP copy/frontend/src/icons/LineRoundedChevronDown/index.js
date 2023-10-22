@@ -1,1 +1,0 @@
-export { LineRoundedChevronDown } from "./LineRoundedChevronDown";

@@ -1,1 +1,0 @@
-export { SocialMediaIcon } from "./SocialMediaIcon";

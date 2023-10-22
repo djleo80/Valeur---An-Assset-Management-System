@@ -1,1 +1,0 @@
-export { LineRoundedHome } from "./LineRoundedHome";
